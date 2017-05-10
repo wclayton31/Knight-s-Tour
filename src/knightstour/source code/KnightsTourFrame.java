@@ -4,7 +4,6 @@
 * GUI desplay of the knights tour algorithm
 *
 */
-package knightstour;
 
 
 import java.awt.event.*;

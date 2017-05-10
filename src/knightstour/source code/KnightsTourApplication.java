@@ -3,7 +3,6 @@
 *
 * Knight's tour
 */
-package knightstour;
 
 public class KnightsTourApplication 
 {    

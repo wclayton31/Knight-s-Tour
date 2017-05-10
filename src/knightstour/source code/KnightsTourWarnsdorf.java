@@ -1,7 +1,6 @@
 /*
 * William Clayton
 */
-package knightstour;
 
 import java.util.*;
 import java.awt.*;

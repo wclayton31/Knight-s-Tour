@@ -1,7 +1,6 @@
 /*
 * William Clayton
 */
-package knightstour;
 
 public class KnightsTourDivideConquer extends KnightsTour
 {

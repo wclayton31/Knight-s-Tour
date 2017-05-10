@@ -18,8 +18,8 @@ public class BoardDisplay extends JPanel
     {
         try 
         {
-            blackKnight = ImageIO.read(new File("BlackKnight.jpg"));
-            whiteKnight = ImageIO.read(new File("WhiteKnight.png"));
+            blackKnight = ImageIO.read(new File("src/knightstour/BlackKnight.jpg"));
+            whiteKnight = ImageIO.read(new File("src/knightstour/WhiteKnight.png"));
         } catch (IOException e) {System.out.println("File not found");}
     }
     
